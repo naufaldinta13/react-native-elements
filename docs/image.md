@@ -18,7 +18,7 @@ import { Image } from 'react-native-elements';
 
 // Standard Image
 <Image
-  source={{ uri: image }}
+  source={{ uri: null }}
   style={{ width: 200, height: 200 }}
 />
 
